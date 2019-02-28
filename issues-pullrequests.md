@@ -27,6 +27,7 @@ The automation on this will only work properly if branch protection has been con
 Labels must be used to ensure all team members can see, at a glance, where an issue or pull request has originated from and it's current state. 
 
 Proposed labels are:
+
 | Name | Reason | Colour |
 |---|---|---|
 | new | only for use when issues are being assigned into the project board | teal
