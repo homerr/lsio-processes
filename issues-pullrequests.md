@@ -28,7 +28,7 @@ Labels must be used to ensure all team members can see, at a glance, where an is
 
 Proposed labels are:
 | Name | Reason | Colour |
-|--|--|--|
+|---|---|---|
 | new | only for use when issues are being assigned into the project board | teal
 | more-info | more information has been requested | yellow 
 | feature-request | for issues requesting features added to the container | green
